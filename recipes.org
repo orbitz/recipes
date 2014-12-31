@@ -91,6 +91,10 @@ A rare gem form the heart of South Africa.
 7. Combine Bowl 5 in a bowl and beat until you cannot beat it anymore.
 8. Pour Bowl 5 over top of bobotie.
 9. Place in oven for 45 min - 1 hour.  Done when top is lightly browned.
+
+#+CAPTION: Some bobotie
+#+ATTR_LATEX: :float nil
+[[./images/bobotie.jpg]]
 ** Wildspastei (Meat Pie)
 South Africa dazzles our taste buds yet again.
 *** Ingredients
@@ -99,7 +103,7 @@ South Africa dazzles our taste buds yet again.
 |      1 | Meat              | 1.5 kg   |
 |--------+-------------------+----------|
 |      2 | Sunflower oil     | 25 ml    |
-|        | Onion             | 1        |
+|        | Chopped onion     | 1        |
 |        | Chopped mushrooms | 260 g    |
 |--------+-------------------+----------|
 |      3 | Milk              | 2.3 dl   |
@@ -127,6 +131,10 @@ for springbok. Or using sheep entirely is delicious.
 6. Put meat mix into casserole dish.
 7. Pour Step 4 over meat.
 8. Cook in oven 30 min.  Crust should be light brown color when done.
+
+#+CAPTION: Tastes wilder than it looks
+#+ATTR_LATEX: :float nil
+[[./images/wildspastei.jpg]]
 * Vegetables
 ** Slow cooked sweet potatoes
 *** Ingredients
