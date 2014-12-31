@@ -56,7 +56,7 @@ A rare gem form the heart of South Africa.
 #+ATTR_LATEX: :center nil
 | *Bowl* | *Ingredient*            | *Amount* |
 |--------+-------------------------+----------|
-|      1 | Minced Meat             | 500 gr   |
+|      1 | Minced Meat             | 500 g    |
 |        | Sunflower oil           | 5 tsp    |
 |        | Salt                    | 2 tsp    |
 |        | Black pepper            | 2 tsp    |
