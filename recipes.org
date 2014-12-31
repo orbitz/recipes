@@ -29,6 +29,9 @@
 5. Insert leave-in thermometer.
 6. Place in oven.
 7. Cook until 53 C.
+
+#+CAPTION: Picture of a handsome roast
+[[./images/roast.jpg]]
 ** Sex Scrambled Eggs
 *** Ingredients
 - Eggs, about 3 per person
@@ -46,6 +49,48 @@ Optional:
 3. Routinely lift pan off of heat to not get too hot.
 4. Once eggs begin to clump together, add salt and pepper.
 5. Once just about done, add in kvarg.
+** Bobotie
+A rare gem form the heart of South Africa.
+*** Ingredients
+#+ATTR_LATEX: :center nil
+| *Bowl* | *Ingredient*            | *Amount* |
+|--------+-------------------------+----------|
+|      1 | Minced Meat             | 500 gr   |
+|        | Sunflower oil           | 5 tsp    |
+|        | Salt                    | 2 tsp    |
+|        | Black pepper            | 2 tsp    |
+|        | Super chopped red apple | 1        |
+|--------+-------------------------+----------|
+|      2 | Seedless raisins        | 1.1 dl   |
+|        | Crushed almonds         | 1.1 dl   |
+|        | Chopped fresh parsley   | 1.1 dl   |
+|        | Choped dried fruit      | 1.1 dl   |
+|        | Powdered nutmeg         | 2 tsp    |
+|--------+-------------------------+----------|
+|      3 | Apricot jam             | 4 tsp    |
+|        | Tomato ketchup          | 50 ml    |
+|        | Ms. Balls Chutney       | 50 ml    |
+|--------+-------------------------+----------|
+|      4 | White bread             | 1 slice  |
+|        | Milk                    | 1.1 dl   |
+|        | Curry                   | 2 tsp    |
+|        | Turmeric                | 2 tsp    |
+|        | Sugar                   | 2 tsp    |
+|        | Apple vinegar           | 0.6 dl   |
+|--------+-------------------------+----------|
+|      5 | Milk                    | 3.5 dl   |
+|        | Eggs                    | 3        |
+*** Recipe
+1. Combine Bowl 1 in a wok and brown.
+2. Add Bowl 2 to mince and cook a few minutes (or until you can smell the
+   fruit).
+3. Add Bowl 3 to mince and constantly stir to prevent burning.
+4. Once Bowl 3 has been stirred in well, add Bowl 4 and stir extremely well.
+5. Once Bowl 4 has been added, begin heating oven to 180 C.
+6. Pour mince into a casserole dish and spread evenly.
+7. Combine Bowl 5 in a bowl and beat until you cannot beat it anymore.
+8. Pour Bowl 5 over top of bobotie.
+9. Place in oven for 45 min - 1 hour.  Done when top is lightly browned.
 * Vegetables
 ** Slow cooked sweet potatoes
 *** Ingredients
@@ -58,7 +103,8 @@ However many sweet potatoes your slow cooker can handle.
 *** Ingredients
 Full serves 6 pancakes.
 
-| Ingredient    | Full    | Half    |
+#+ATTR_LATEX: :center nil
+| *Ingredient*  | *Full*  | *Half*  |
 |---------------+---------+---------|
 | Flour         | 4.7 dl  | 2.4 dl  |
 | Baking powder | 2 tsp   | 1 tsp   |
