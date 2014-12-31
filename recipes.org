@@ -135,6 +135,15 @@ for springbok. Or using sheep entirely is delicious.
 #+CAPTION: Tastes wilder than it looks
 #+ATTR_LATEX: :float nil
 [[./images/wildspastei.jpg]]
+** Boring Chicken
+Going on a chicken and broccoli diet?  You'll be sick of this by the next day.
+*** Ingredients
+- Boneless and skinless chicken breast
+- Some oil
+*** Recipe
+1. Preheat broiler.
+2. Cover chicken in oil, salt, pepper and grill seasoning.
+3. Broil for 7 - 10 minutes.
 * Vegetables
 ** Slow cooked sweet potatoes
 *** Ingredients
@@ -162,3 +171,38 @@ Full serves 6 pancakes.
 3. Add milk and stir.  Chunks are ok, it's just delicious butter that will melt
    into delicious butter spots in your delicious pancakes.
 
+** My Sister's Sesame Noodles
+This won a prize.
+*** Ingredients
+| *Ingredients*     | *Amount* |
+|-------------------+----------|
+| Angel hair pasta  | 2 kg     |
+| Protein           | depends  |
+| Soy sauce         | 0.7 dl   |
+| Rice vinegar      | 0.7 dl   |
+| Garlic cloves     | 3        |
+| Honey             | 3 tbsp   |
+| Red pepper flakes | 1 tsp    |
+| Ginger powder     | 0.5 tsp  |
+| Sesame oil        | 0.7 dl   |
+| Green onions      | 3        |
+| Grated carrot     | 1        |
+| Red pepper        | 1        |
+| Fresh cilantro    | handful  |
+| Sesame noodles    | depends  |
+
+Suggested protein: chicken breast (cubed) or tofu (cubed)
+*** Recipe
+1. Cook angel hair pasta.
+2. Cook protein if necessary.
+3. Whisk soy sauce, rice vinegar, garlic, honey, red pepper flakes, and ginger.
+4. Continue whisking and drizzle in sesame oil, thoroughly combining.
+5. Chop pepper, green onions, and grate carrot.
+6. One noodles are cooked, run through cold water until cool to the touch.
+7. Pour dressing over noodles and toss.
+8. Add protein, red pepper, green onion, and carrot and toss.
+9. Serve with sesame seeds on top.
+
+#+CAPTION: Award winning noodles
+#+ATTR_LATEX: :float nil
+[[./images/sesame-noodles.jpg]]
