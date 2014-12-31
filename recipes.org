@@ -31,6 +31,7 @@
 7. Cook until 53 C.
 
 #+CAPTION: Picture of a handsome roast
+#+ATTR_LATEX: :float nil
 [[./images/roast.jpg]]
 ** Sex Scrambled Eggs
 *** Ingredients
