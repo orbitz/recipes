@@ -53,7 +53,6 @@ Optional:
 ** Bobotie
 A rare gem form the heart of South Africa.
 *** Ingredients
-#+ATTR_LATEX: :center nil
 | *Bowl* | *Ingredient*            | *Amount* |
 |--------+-------------------------+----------|
 |      1 | Minced Meat             | 500 g    |
@@ -140,7 +139,6 @@ However many sweet potatoes your slow cooker can handle.
 *** Ingredients
 Full serves 6 pancakes.
 
-#+ATTR_LATEX: :center nil
 | *Ingredient*  | *Full*  | *Half*  |
 |---------------+---------+---------|
 | Flour         | 4.7 dl  | 2.4 dl  |
