@@ -1,14 +1,15 @@
 #+TITLE: Recipes
 #+AUTHOR: The World
 
-#+OPTIONS: toc:1 num:0
+#+OPTIONS: toc:2 num:2
 
-* Steak
-** Ingredients
+* Meat
+** Steak
+*** Ingredients
 1. Steak.  As much as you can eat. 2 - 4 cm thick.
 2. Cast iron skillet.
-** Recipe
-1. Let steak warm up for 30 minutes, to hit get room temperature.
+*** Recipe
+1. Let steak warm up for 30 minutes, to hit room temperature.
 2. Preheat broiler with cast iron skillet.
 3. Salt and pepper steak.
 4. Melt butter an poor it over steak.
@@ -16,11 +17,11 @@
 6. Sear steak, 1 min each side.
 7. Put patch of butter on top of steaks and place in broiler.
 8. Cook in broiler between 2 and 8 minutes depending on thickness.
-* Roast
-** Ingredients
+** Roast
+*** Ingredients
 1. Cut of beef on bone, minimum 1kg.
 2. Cast iron skillet.
-** Recipe
+*** Recipe
 1. Let steak warm up for several hours, should be close to room temp.
 2. Preheat oven between 125 C and 135 C depending on how long you have.
 3. Salt and pepper.
@@ -28,8 +29,16 @@
 5. Insert leave-in thermometer.
 6. Place in oven.
 7. Cook until 53 C.
-* Pancakes
-** Ingredients
+* Vegetables
+** Slow cooked sweet potatoes
+*** Ingredients
+However many sweet potatoes your slow cooker can handle.
+*** Recipe
+1. Wrap sweet potatos in tin foile.
+2. Cook on high for 4 hours.
+* Carbs
+** Pancakes
+*** Ingredients
 Full serves 6 pancakes.
 
 | Ingredient    | Full    | Half    |
@@ -40,7 +49,7 @@ Full serves 6 pancakes.
 | Eggs          | 2       | 1       |
 | Milk          | 7 dl    | 3.5 dl  |
 | Butter        | 4 tbsp  | 2 tbsp  |
-** Recipe
+*** Recipe
 1. Heat non-stick skillet around medium or medium-low.
 2. Mix flour, baking powder, salt, eggs and butter in a mixing bowl.  Smush with
    hands until uniformly chunky.
