@@ -151,6 +151,40 @@ However many sweet potatoes your slow cooker can handle.
 *** Recipe
 1. Wrap sweet potatoes in tin foil.
 2. Cook on high for 4 hours.
+
+** Bechamel Creamed Spinach with Bacon
+*** Equipment
+1. Enamel cast-iron dutch oven.
+2. Fine strainer or cheeseclothes (preferable).
+
+*** Ingredients
+| *Ingredients*     | *Amount* |
+|-------------------+----------|
+| Fresh spinach     | 600g     |
+| Bacon, chopped    | 150g     |
+| Onion, minced     | 1 small  |
+| Garlic, minced    | 2 cloves |
+| Flour             | 2 tbsp   |
+| Milk              | 500 mL   |
+| Salt, pepper      | to taste |
+| lemon juice (opt) | to taste |
+*** Recipe
+1. Wash spinach. No need to dry after, you want some moisture.
+2. Steam the spinach in the dutch open. This might take multiple
+   batches. Clean thoroughly.
+3. Set aside while letting the spinach drain very thoroughly. If
+   you've got the cheeseclothes, squeeze them out thoroughly.
+4. Fry bacon in the dutch oven until crispy. Remove bacon.
+5. Saute garlic and onions in the bacon drippings.
+6. Add flour to the drippings, forming a roux.
+7. Slowly add milk. Let thicken until you have a bechamel-like sauce
+   the consistency of glue.
+8. Chop thoroughly drained spinach.
+9. Fold spinach into the sauce mixture, spreading throughly.
+10. Salt and pepper to taste.
+11. Optionally, add in a squeeze of lemon juice to give the dish just
+    a hint of acid.
+
 * Carbs
 ** Pancakes
 *** Ingredients
