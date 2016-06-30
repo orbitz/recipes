@@ -337,3 +337,42 @@ Suggested protein: chicken breast (cubed) or tofu (cubed)
 #+CAPTION: Award winning noodles
 #+ATTR_LATEX: :float nil
 [[./images/sesame-noodles.jpg]]
+* Condiments
+** Viljoen Peri-Peri Sauce
+Good peri-peri burns twice.
+*** Ingredients
+Legend:
+ts = teaspoon, ds = dessert spoon, cup = tea cup
+
+| *Ingredients*      | *Amount*            |
+|--------------------+---------------------|
+| Sunflower Oil      | 4ds                 |
+| Onion              | 125g                |
+| Garlic             | 15g                 |
+| Green bellpepper   | 250g                |
+| Chillies           | 100g                |
+| Tomato             | 500g                |
+| Peri peri powder   | 1ts                 |
+| Ground blackpepper | 1ts                 |
+| Salt               | 2ts                 |
+| Curry              | 1ts                 |
+| Ginger             | 0.5ts               |
+| Red pepper         | 2ts (5ts for spicy) |
+| Cumin              | 0.5ts               |
+| Allspice           | 0.5ts               |
+| Mace (or Nutmeg)   | 0.5ts               |
+| Cloves             | 0.5ts               |
+| Apple Vinegar      | 0.5cup              |
+| Sugar              | 0.25cup             |
+*** Recipe
+1. Chop everything really small and cook in pan. Cook each ingredient for a
+   short while before moving to next.
+2. Pour all these in and cook until it is not too soggy but not dry.
+3. Bottle but keep tops open, let it stand outside to cool down.
+4. Once cool you can close the bottles and put in a cool cupboard where it needs
+   to stay for 4 weeks.
+
+DO NOT open before 4 weeks.
+
+This recipe makes about 3 office coffee cups in amount.
+
