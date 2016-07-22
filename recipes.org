@@ -287,20 +287,20 @@ However many sweet potatoes your slow cooker can handle.
 *** Ingredients
 Full serves 6 pancakes.
 
-| *Ingredient*  | *Full*  | *Half*  |
-|---------------+---------+---------|
-| Flour         | 4.7 dl  | 2.4 dl  |
-| Baking powder | 2 tsp   | 1 tsp   |
-| Salt          | 1/2 tsp | 1/2 tsp |
-| Eggs          | 2       | 1       |
-| Milk          | 7 dl    | 3.5 dl  |
-| Butter        | 4 tbsp  | 2 tbsp  |
+| *Ingredient*    | *Amount* |
+|-----------------+----------|
+| Flour           | 3.5 dl   |
+| Baking powder   | 3.5 tsp  |
+| Salt            | 1 tsp    |
+| Sugar           | 1 tbsp   |
+| Egg             | 1        |
+| Butter (melted) | 3 tbsp   |
+| Milk            | 3 dl     |
 *** Recipe
-1. Heat non-stick skillet around medium or medium-low.
-2. Mix flour, baking powder, salt, eggs and butter in a mixing bowl.  Smush with
-   hands until uniformly chunky.
-3. Add milk and stir.  Chunks are ok, it's just delicious butter that will melt
-   into delicious butter spots in your delicious pancakes.
+1. Mix flour, baking powder, salt, and sugar in a bowl.
+2. Mix in milk.
+3. Add egg and melted butter.
+4. Warm a pan and to medium with melted butter.
 
 ** My Sister's Sesame Noodles
 This won a prize.
