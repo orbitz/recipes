@@ -357,6 +357,30 @@ Suggested protein: chicken breast (cubed) or tofu (cubed)
 #+CAPTION: Award winning noodles
 #+ATTR_LATEX: :float nil
 [[./images/sesame-noodles.jpg]]
+** Bread
+http://imgur.com/gallery/R31OL
+*** Ingredients
+- 550g white flour
+- 0.5 tsp yeast
+- 1.5 tsp salt
+- 4 dl water
+- 0.7 dl whole wheat flour
+*** Recipe
+1. Add flour to a mixing bowl.
+2. Combine yeast and flour.
+3. Add water and mix until there is no dry flour.
+4. Cover with a cloth and let sit for 8 to 12 hours at room temperature.
+5. Preheat oven to 230 deg C.
+6. Keep whole wheat flour near by and pick up the dough from the bowl.  Fold in
+   on itself 3 - 4 times and turn into a ball.  Put whole wheat flour in the
+   bowl and role the ball in it until it is covered.  Put clothe over and let
+   sit for 30 minutes.
+7. While the dough is sitting, put the dutch oven in the oven with the top on
+   and let warm up for 30 minutes.
+8. Place the dough in the dutch oven and put in the oven for 30 minutes with the
+   cover on.
+9. Remove the cover and let bake another 30 minutes.
+10. Remove from the oven and let cool at least 15 minutes.
 * Condiments
 ** Viljoen Peri-Peri Sauce
 Good peri-peri burns twice.
