@@ -237,6 +237,46 @@ From: https://www.sousvidetools.com/toolshed/recipes/pork-belly/
     baking sheet on top and refrigerate, this will make the portions straight
     for the next step (I'm not sure if this is actually necessary).
 11. Finish in a hot pan or roast in the oven.
+** Pork Belly Slides
+From: http://www.seriouseats.com/recipes/2013/10/sous-vide-pork-belly-bun-pork-braise-mayonnaise-quick-pickled-cucumbers-recipe.html
+*** Ingredients
+- 1 dl cup soy sauce
+- 1 dl mirin
+- 1 dl granulated sugar
+- 2 tablespoons fish sauce
+- 2 whole scallions, roughly chopped
+- 3 medium cloves garlic, roughly chopped
+- 1 (2-inch) chunk ginger, peeled and roughly chopped
+- 1 kg pork belly, in as large pieces as possible (preferably 1 or 2 whole
+  slabs)
+- 1.5 dl mayonnaise, preferably homemade
+- 24 fresh or frozen Chinese-style steamed buns
+- 1 head bibb lettuce, washed, dried, and torn into medium-sized pieces
+- 1 recipe Quick-Pickled Cucumbers with Rice Vinegar
+*** Recipe
+1. Preheat a sous-vide style water bath to 77 deg C. Combine soy sauce, mirin,
+   sugar, fish sauce, scallions, garlic, and ginger in the bowl of a food
+   processor. Process until vegetables are roughly pureed. Transfer pork belly
+   and marinade to a food-saver style vacuum bag and seal. Alternatively,
+   transfer to a heavy duty gallon-sized freezer bag and seal by slowly
+   submerging into a pot full of water, sealing the top just before it goes
+   underwater to remove all air. Transfer to sous vide cooker and cook until
+   completely tender, about 10 hours. Remove bag from cooker and chill
+   thoroughly. Pork belly can be stored in the refrigerator for up to 2 weeks
+   after cooking if the bag remains sealed.
+2. When ready to serve, open sous vide bag and remove pork belly. Discard solid
+   chunks of fat. Warm congealed liquids in a small saucepan, then strain
+   through a fine mesh strainer. Return to saucepan and simmer until reduced to
+   2 tablespoons, making sure that the syrup doesn't reduce too far and burn,
+   about 15 minutes.
+3. Transfer reduced cooking liquid to a medium bowl. Add mayonnaise and whisk to
+   combine.
+4. Preheat broiler to high. Cut pork belly into 1 1/2-inch wide strips, then
+   slice into 1/2- to 1/3-inch slices. Transfer to a foil lined broiler
+   pan. Broil pork belly until crisp and charred on one side, about 3 minutes.
+5. To Serve: Steam buns in a bamboo steamer or in the microwave on a large plate
+   under a damp towel. Spread mayonnaise onto each bun, then stuff with lettuce
+   leaf, slices of pork belly, and pickles. Serve immediately.
 * Vegetables
 ** Slow cooked sweet potatoes
 *** Ingredients
