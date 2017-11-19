@@ -694,6 +694,24 @@ This recipe makes about 3 office coffee cups in amount.
 - 230 ml soy sauce
 *** Recipe
 1. Combine ingredients in a food processors and process.
+** Chimicurri
+*** Ingredients
+| *Ingredient*        | *Amount* |
+|---------------------+----------|
+| Parsley (chopped)   | 2 tbsp   |
+| Cilantro (chopped)  | 2 tbsp   |
+| Red onion (chopped) | 2 tbsp   |
+| Garlic (minced)     | 1 clove  |
+| Olive oil           | 2 tbsp   |
+| Apple cider vinegar | 2 tbsp   |
+| Water               | 1 tbsp   |
+| Salt                | 1/4 tsp  |
+| Black pepper        | 1/8 tsp  |
+| Red pepper flakes   | To taste |
+*** Recipe
+1. Combine red onion, vinegar, salt and olive oil and let sit for 5 minutes.
+2. Add remaining ingredients.
+3. Mix well.
 * Instant Pot
 ** Congee
 *** Ingredients
@@ -773,4 +791,36 @@ This recipe makes about 3 office coffee cups in amount.
 14. Put instant pot in saute mode.
 15. Mix cornstarch with warm water and mix to make sure there are no clumps.
 16. Add mixture to pot slowly until it is at desired thickness.
-* Soud Vide
+* Sous Vide
+** Steak
+*** Ingredients
+| *Ingredient* | *Amount*       |
+|--------------+----------------|
+| Steak        | However much   |
+| Salt         | To cover steak |
+*** Recipe
+1. 24 hours before cooking dry brine the steak by covering it in salt and
+   putting in fridge.
+2. Put steaks in sealed bag.
+3. Cook in sous vide for 1 hour at 53.9 C.  Increase time for thicker cuts but
+   never more than 3 hours.
+4. Sear steaks in cast iron skillet with a little bit of oil.
+5. Let sit for a few minutes and serve.
+** Game meat
+*** Recipe
+1. Cook in sous vide at 55 C for no more than 3 hours.
+2. Sear in cast iron skillet with a bit of oil.
+** Salmon with Dijon Cream Sauce
+*** Ingredients
+| *Ingredient* | *Amount* |
+|--------------+----------|
+| Salmon       |          |
+| Spinach      | A lot    |
+| Dijon        | 1 dl     |
+| Heavy cream  | 2 dl     |
+| Lemon juice  | 1 tbsp   |
+*** Recipe
+1. Cook salmon in sous vide at 46.1 C for 45 minutes.
+2. Combine dijon and heavy cream in a pot and cook at medium heat.
+3. Salt and pepper sauce to taste.
+4. Wilt spinach in a pot with a small amount of water.
