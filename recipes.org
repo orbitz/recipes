@@ -694,3 +694,83 @@ This recipe makes about 3 office coffee cups in amount.
 - 230 ml soy sauce
 *** Recipe
 1. Combine ingredients in a food processors and process.
+* Instant Pot
+** Congee
+*** Ingredients
+| *Ingredient*   | *Amount*  |
+|----------------+-----------|
+| Chicken Thighs | A bunch   |
+| Jasmine Rice   | 3/4th cup |
+| Water          | 6 cups    |
+| Ginger cut up  | 1 tbsp    |
+| Scallions      |           |
+| Salt           | to taste  |
+*** Recipe
+1. Wash rice by putting it in water in a bowl, swirling it with fingers and
+   dumping out water.  Repeat 5 - 6 times or until water is no longer becomes
+   cloudy.
+2. Place water in instant pot.
+3. Add water.
+4. Add chicken.
+5. Add ginger.
+6. Cook for 30 minutes at high pressure.
+7. If too watery, put in saute mode for awhile.
+8. Serve with scallions, salt, and soy sauce to taste.
+** Simple Chicken
+*** Ingredients
+| *Ingredient* | *Amount*     |
+|--------------+--------------|
+| Chicken      | However much |
+| Water        | 1 cup        |
+*** Recipe
+1. Put instant pot in saute mode.
+2. Add oil.
+3. Spice chicken.
+4. Cook chicken in instant pot, a few minutes per side.
+5. Remove chicken.
+6. Add 1 cup of water to instant pot.
+7. Put steam rack in pot.
+8. Place chicken on steam rack.
+9. Cook at for 6 minutes at high pressure.
+** Broccoli
+*** Ingredients
+| *Ingredient* | *Amount*     |
+|--------------+--------------|
+| Broccoli     | However much |
+| Water        | 1 cup        |
+*** Recipe
+1. Add water to instant pot.
+2. Put steam rack in instant pot.
+3. Cook for 0 minutes at low pressure.
+** Pot Roast
+*** Ingredients
+| *Ingredient*         | *Amount*     |
+|----------------------+--------------|
+| Meat                 | 1 - 2 kg     |
+| Carrots              | 4            |
+| Potatoes             | 3 - 4        |
+| Large Onion          | 1            |
+| Thyme                | 1 sprig      |
+| Soy sauce            | 1 tbsp       |
+| Worcestershire Sauce | 1 tbsp       |
+| Red Wine             | However much |
+| Water                | Just a bit   |
+| Cornstarch           | 1 tbsp       |
+*** Recipe
+1. Put instant pot in saute mode.
+2. Salt meat.
+3. Add oil to instant pot.
+4. Brown meat in instant pot.
+5. Remove meat from instant pot.
+6. Cut up onion and toss it in with some oil.
+7. Once onions are done, add wine and deglaze pot.
+8. Add soy sauce, Worcestershire sauce, thyme, and water.
+9. Add meat back to instant pot.
+10. Cook for 35 minutes at high pressure with natural release.
+11. Remove meat and keep warm.
+12. Add chopped up potatoes and carrots.
+13. Cook for 5 minutes at high pressure with quick release.
+14. Put instant pot in saute mode.
+15. Mix cornstarch with warm water and mix to make sure there are no clumps.
+16. Add mixture to pot slowly until it is at desired thickness.
+* Soud Vide
