@@ -791,6 +791,35 @@ This recipe makes about 3 office coffee cups in amount.
 14. Put instant pot in saute mode.
 15. Mix cornstarch with warm water and mix to make sure there are no clumps.
 16. Add mixture to pot slowly until it is at desired thickness.
+** Thai Red Curry
+Taken from [[https://www.paintthekitchenred.com/instant-pot-thai-red-curry/][here]].
+** Ingredients
+- 6 Tbsp Thai red curry paste
+- 2 cans coconut milk
+- 1 lb boneless chicken breasts or thighs sliced into thin bite-size pieces
+- 4 Tbsp fish sauce more to taste
+- 4 Tsp brown sugar or to taste
+- 2 Tbsp lime juice
+- 1 red and/or green bell pepper cubed
+- Two pok choy
+- One whole yellow onion
+- Ginger cut into sticks
+- 4 lime leaves slightly bruised
+- 12 Thai Basil leaves
+** Recipe
+1. Put instant pot in saute mode.
+2. Add red curry paste and some coconut milk and mix.
+3. Cube chicken while curry cooking.
+4. Let cook until bubbling for a few minutes.
+5. Add the rest of coconut milk and mix.
+6. Add chicken.
+7. Cook on High Pressure for 4 minutes.
+8. Quick release.
+9. Add brown sugar, lime juice, fish sauce and mix.
+10. Add peppers, onion, pak choy, and ginger.
+11. Let cook for 3 - 4 minutes, they should still be crispy when done.
+12. Add lime leaves and thai basil.
+13. Serve with rice.
 * Sous Vide
 ** Steak
 *** Ingredients
