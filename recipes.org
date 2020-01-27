@@ -414,6 +414,36 @@ However many sweet potatoes your slow cooker can handle.
 12. Add yogurt, mix until combined.
 13. Place green bean mixture in casserole dish, top with onions.
 14. Bake 10 - 15 minutes or until casserole is bubbly.
+** Bean Stew
+*** Ingredients
+- 3 cans beans
+- 5 tomatoes
+- thyme
+- 6 eggs
+- tomato puree
+- Onions
+- Garlic
+- All-round spice
+- Cumin
+- Hot peppers
+- Sriracha
+*** Recipe
+1. Slice tomatoes and onions and hot peppers and thyme.
+2. Heat up oil in a stew pot.
+3. Add hot peppers and cook until fragrant.
+4. Add onions and garlic.
+5. Once fragrant, add tomatoes, mix in.
+6. Add spices, salt, pepper, and sriracha.
+7. Add tomato puree.
+8. Add beans.
+9. Add thyme.
+10. Cook for a bit and add water if it is too thick, but wait for the water to
+    come out of the tomatoes before adding water.
+11. Let come to a boil then reduce heat to medium.
+12. Break eggs such that they cover the top layer.
+13. Cook for 5 minutes with the top on such that the eggs are cooked but still
+    runny.
+14. Let cool down and service with a carb (bread, tortilla, rice).
 * Carbs
 ** Pancakes
 *** Ingredients
@@ -646,6 +676,33 @@ http://www.italyum.com/pizza-recipes/199-pizza-using-fresh-yeast.html
 21. Add toppings to pizza.  As the final touch, put a dash of olive oil over the
     toppings and brush the outer crust with olive oil.
 22. Cook 7 - 10 minutes.  Let cool before serving.
+** Lasagna
+*** Ingredients
+- Lasagna noodles
+- Tomato sauce
+- 1 egg
+- Ricotta cheese
+- Mozzarella cheese
+- Zucchini
+- Onion
+- Meat/Fake meat
+- Garlic
+- Salt
+- Pepper
+*** Recipe
+1. Brown meat in a large pot then remove and set aside.
+2. Cook onions, garlic, and zucchini in a large pot
+3. Once vegetables are cooked, add the meat back in.
+4. Add tomato sauce and let cook for awhile.
+5. Mix egg and ricotta cheese.
+6. Preheat oven to 190 deg C.
+7. Layer lasagna pan with sauce at bottom, then noodles, sauce, ricotta cheese
+   pix, noodles, sauce.
+8. Put mozzarella cheese on top.
+9. Cover with aluminum foil.
+10. Cook for 25 minutes.
+11. Remove foil and cook for 25 minutes more or until brown.
+12. Let rest for 10 minutes before serving.
 * Condiments
 ** Viljoen Peri-Peri Sauce
 Good peri-peri burns twice.
@@ -793,33 +850,33 @@ This recipe makes about 3 office coffee cups in amount.
 16. Add mixture to pot slowly until it is at desired thickness.
 ** Thai Red Curry
 Taken from [[https://www.paintthekitchenred.com/instant-pot-thai-red-curry/][here]].
-** Ingredients
-- 6 Tbsp Thai red curry paste
-- 2 cans coconut milk
-- 1 lb boneless chicken breasts or thighs sliced into thin bite-size pieces
-- 4 Tbsp fish sauce more to taste
-- 4 Tsp brown sugar or to taste
-- 2 Tbsp lime juice
-- 1 red and/or green bell pepper cubed
-- Two pok choy
-- One whole yellow onion
-- Ginger cut into sticks
-- 4 lime leaves slightly bruised
-- 12 Thai Basil leaves
-** Recipe
-1. Put instant pot in saute mode.
-2. Add red curry paste and some coconut milk and mix.
-3. Cube chicken while curry cooking.
-4. Let cook until bubbling for a few minutes.
-5. Add the rest of coconut milk and mix.
-6. Add chicken.
-7. Cook on High Pressure for 4 minutes.
-8. Quick release.
-9. Add brown sugar, lime juice, fish sauce and mix.
-10. Add peppers, onion, pak choy, and ginger.
-11. Let cook for 3 - 4 minutes, they should still be crispy when done.
-12. Add lime leaves and thai basil.
-13. Serve with rice.
+*** Ingredients
+ - 6 Tbsp Thai red curry paste
+ - 2 cans coconut milk
+ - 1 lb boneless chicken breasts or thighs sliced into thin bite-size pieces
+ - 4 Tbsp fish sauce more to taste
+ - 4 Tsp brown sugar or to taste
+ - 2 Tbsp lime juice
+ - 1 red and/or green bell pepper cubed
+ - Two pok choy
+ - One whole yellow onion
+ - Ginger cut into sticks
+ - 4 lime leaves slightly bruised
+ - 12 Thai Basil leaves
+*** Recipe
+ 1. Put instant pot in saute mode.
+ 2. Add red curry paste and some coconut milk and mix.
+ 3. Cube chicken while curry cooking.
+ 4. Let cook until bubbling for a few minutes.
+ 5. Add the rest of coconut milk and mix.
+ 6. Add chicken.
+ 7. Cook on High Pressure for 4 minutes.
+ 8. Quick release.
+ 9. Add brown sugar, lime juice, fish sauce and mix.
+ 10. Add peppers, onion, pak choy, and ginger.
+ 11. Let cook for 3 - 4 minutes, they should still be crispy when done.
+ 12. Add lime leaves and thai basil.
+ 13. Serve with rice.
 * Sous Vide
 ** Steak
 *** Ingredients
