@@ -633,75 +633,72 @@ Picture of ingredients:
    you let it rest for an hour or two after it’s done.
 
    [[./images/rcc10.jpg]]
-** Pizza Dough
+** Cast Iron Pizza
 Recipe from
-http://www.italyum.com/pizza-recipes/199-pizza-using-fresh-yeast.html
 *** Ingredients
-- 500 g Italian "00" or "0" type flour for pizza (alternatively use plain flour)
-- 15 g Fresh yeast (fresh compressed yeast)
-- 10 g Fine sea salt bp 2%
-- 5 g Malt extract bp 1% - optional
-- 20 g  Extra virgin olive oil bp 4%
-- 300 g Tepid water bp 60%
+- 3.5 dl warm water
+- 60 ml olive oil
+- 9 dl flour (more gluten the better)
+- 1 tbsp sugar
+- 1.5 tsp salt
+- 2 tsp yeast
 *** Recipe
-1. Put the flour into a large bowl and sprinkle with salt. Using your hands or a
-   wooden spoon, stir to evenly distribute the salt within the flour.
-2. Crumble the fresh yeast with your hand and add it into the bowl.
-3. Rub the fresh yeast through the flour, to further break it down (1 or 2
-   minutes will be sufficient).
-4. Add the malt extract to the water and stir. It should dissolve in few
-   seconds.
-5. Add the water and malt mix into the bowl.
-6. Add the olive oil into the bowl.
-7. Using your hand, start mixing in circular motion.
-8. Keep mixing until all the ingredients come together.
-9. After a couple of minutes mixing, you should have a dough at its early stage
-   of development. Now, we knead the dough so that it can develop the gluten and
-   become firmer.
+When making this dough, you want it wet as opposed to dry.  It should not be
+sticking to your hands but given how the dough will be cooked we don't want it
+to dry out.
 
-   The pizza dough in this recipe has 60% hydration. This quantity of water
-   should give you a firm dough, however not all the pizza flours have the same
-   quantity of proteins, so if you end up using a pizza flour at its lowest
-   protein content, during a very humid day, you may have to knead a soft dough
-   instead of a firm dough. If that is the case, knead the dough using the
-   stretch and fold method ([[https://www.youtube.com/watch?v=QlaL98Wg3eU&feature=youtu.be][watch this short video]]).
+When cooking, the goal is to use the cast iron on the stove to cook the bottom
+of the dough for a bit, and then we'll finish the pizza in the oven, and finally
+depending on how the bottom looks, we might just let it sit in the cast iron for
+a few minutes after taking it out of the oven.  We want the bottom to have some
+dark spots on it and be crunchy while not being dry.
 
-   If your dough is firm, then knead the dough using the push, roll and turn
-   method ([[https://www.youtube.com/watch?v=tSGOcSl9vtU&feature=youtu.be][watch this short video]]).
-10. When the dough has been kneaded for at least 10 minutes, you should have a
-    smooth, silky and elastic dough. Now, we need to shape the dough into a
-    ball. To do so, lift and fold the outer edges of the dough towards the
-    centre, while rotating the dough at the same time and tucking the edges into
-    the centre of the ball.  Anything between six and eight folds should be
-    enough.
-11. When finished, turn the dough over and with both hands rotate the dough
-    while applying gentle pressure to the bottom (as if tucking the dough
-    underneath).
-12. Grease the inside of a large bowl with a thin coat of olive oil.
-13. Roll the ball inside the bowl, lightly coating the surface of the ball with oil.
-14. Cover the bowl and leave the dough to rise for a couple of hours. This is
-    called bulk fermentation.  Before we do anything with our dough, we need to
-    wait until it has raised properly. Let raise for 2 hours.
-15. Next, divide the dough in five segments of equal weight (150-160 g each).
-16. Make a ball out of each segment. To do so, roughly pre-shape the segment
-    into a ball, then cup your hands over the ball. Press down and move your
-    hand in a circular motion, while keeping the hand cupped. This action will
-    compact the ball into a tight round shape.
-17. Spread some flour over the working surface and lay your dough balls onto it.
-18. Cover the dough balls with a dry cloth and leave them to rest for 1
-    hour. This time is called final fermentation.
-19. Once the final fermentation is completed, lightly flour the working surface
-    and take the first dough ball. Using a rolling pin, start rolling so that
-    you can make a large circle.
+At any point in the recipe you might need to use flour to keep the dough from
+sticking to whatever surface you're working it on.  Use your best judgement.
 
-    The pizza base should match a 30 cm (12") diameter pizza tray.
+**** Dough
+1. Combine yeast in a portion of the warm water and let bubble a bit.
+2. Combine flour, olive oil, sugar, and salt.
+3. Begin mixing with your hand in a circular motion.
+4. Combine yeast water into mix while stirring with hand.
+5. Add rest of water.
+6. Add in a bit more flour if the dough is too wet.
+7. After it's starting to be manageable, move to kneed it for at least 10
+   minutes on the counter.  The dough should be smooth but elastic.  If you
+   press it with your finger it should bounce back.
+8. Form the dough into a ball.
+9. Put some olive oil into a large bowl.
+10. Put the ball of dough into the bowl and move the ball around until it is
+    covered in olive oil.
+11. Cover and let rise for 1 - 2 hours.
+12. Once risen, kneed the dough for a few minutes and then roll into a tube
+    shape
+13. Divide the tube into four parts.
+14. Turn each part into a ball and cover, let rise again for 30 - 40 minutes.
+15. At this point you can freeze the balls for up to three months or store in
+    the fridge for 24 hours.
 
-    The pizza base should be very thin; I would say 2 or 3 millimetres (1/16" or
-    1/8") thick.
-20. Preheat the oven to its maximum heat (usually around 240 deg C).
-21. Add toppings to pizza.  As the final touch, put a dash of olive oil over the
-    toppings and brush the outer crust with olive oil.
-22. Cook 7 - 10 minutes.  Let cool before serving.
+**** Pizza
+1. Preheat the oven to somewhere between 200 deg C and 240 deg C depending on
+   how hot the oven gets.
+2. Preheat the cast iron skillet at medium to medium high.  You do not need any
+   oil or butter on the pan, the dough will go on it directly.
+3. Spread the dough out on your counter to the size of your cast iron, a bit
+   bigger, so you can build the edge of the crust.
+4. Once the cast iron is hot, place the dough into it.  This will take some
+   practice but doesn't need to be perfect.  To some degree you can pick it up
+   and move it around in the pan to get it right.
+5. Let the dough cook in the cast iron while you add your toppings.  Brush some
+   olive oil on the edge of the crust to help it crunch.
+6. It's up to your best judgment how long this should cook.  The dough should
+   not be fully cooked in the cast iron, we just want to give it a head start so
+   it'll be crunchy once we're done.  I go around 5 minutes in the cast iron.
+7. Put in oven until the cheese is cooked.  Should bubble and be browning.
+8. Remove from oven, you can tilt the pizza out of the pan to see how cooked the
+   bottom is, if it's not cooked enough, let it sit in the hot cast iron for a
+   bit longer to cook.
+9. Once done, remove from cast iron, let rest for five minutes.
+10. Slice and enjoy.
 ** Lasagna
 *** Ingredients
 - Lasagna noodles
