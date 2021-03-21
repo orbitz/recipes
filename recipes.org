@@ -947,6 +947,14 @@ experience inconsistent.  Therefore, I suggest finding a point in the
 preparation of a dish where the heat is coming down but it can still be mixed
 in.
 ** Mapo Tofu
+This is a very delicate dish so we want to use the softest tofu you can find.
+When the tofu is added into the sauce, don't be afraid when stirring it in.  Be
+gentle but despite the tofu being so delicate, it will survive.
+
+Like most Sichuan dishes, this comes together quickly so you are going to want
+all of the ingredients ready to go by the time you have started cooking so you
+can just dump them in, otherwise you risk burning the ingredients.
+
 *** Ingredients
 | *Ingredient*                | *Amount*                             |
 |-----------------------------+--------------------------------------|
@@ -964,14 +972,6 @@ in.
 | Ground white pepper         | A pinch                              |
 | Potato starch               | 1 tbsp mixed with cold water         |
 *** Recipe
-This is a very delicate dish so we want to use the softest tofu you can find.
-When the tofu is added into the sauce, don't be afraid when stirring it in.  Be
-gentle but despite the tofu being so delicate, it will survive.
-
-Like most Sichuan dishes, this comes together quickly so you are going to want
-all of the ingredients ready to go by the time you have started cooking so you
-can just dump them in, otherwise you risk burning the ingredients.
-
 1. Before prepping other ingredients, cut the tofu into cubes and place in warm
    water with a tiny bit of salt.  This will sit here until we eventually strain
    it and add it to the dish.  I'm not entirely sure but I believe this process
@@ -1034,3 +1034,40 @@ can just dump them in, otherwise you risk burning the ingredients.
  16. Add potato starch and mix.  It should turn into a thick gravy, add more
      potato starch/water mix as necessary, but be conservative because it can
      thicken up out of nowhere.
+** Fish-fragrant Eggplants
+There is nothing fish-related in this recipe, nobody really knows where the name
+came from but it's delicious.
+
+*** Ingredients
+| *Ingredient*             | *Amount*                                  |
+|--------------------------+-------------------------------------------|
+| Eggplant                 | 600 g (I do 2 big ones or 3 smaller ones) |
+| Cooking oil              | 3 tbsp                                    |
+| Sichuan chile bean paste | 1.5 tbsp                                  |
+| Chopped garlic           | 1.5 tbsp                                  |
+| Chopped ginger           | 1 tbsp                                    |
+| Hot water/stock          | 150 ml                                    |
+| Superfine sugar          | 4 tsp                                     |
+| Soy sauce                | 1 tsp                                     |
+| Potato starch            | 1 tsp mixed with water                    |
+| Chinkiang vinegar        | 1 tbsp                                    |
+| Scallions                | To your heart's delight                   |
+| Sichuan chile pepper     | 2+ tsp                                    |
+*** Recipe
+1. Cut eggplant into batons and cook.  You have two options: deep frying or
+   oven.  I prefer the oven because it makes the eggplant a bit less heavy.  To
+   cook the batons in the oven, give them a layer of oil, and place in a
+   pre-heated oven at 220 deg C for 15 - 20 minutes.  Keep an eye on them
+   because you want them to have some structure to them, if they cook too much
+   they'll just shrivel up.
+2. Heat 3 tbsp of cooking oil in the wok.
+3. Add chile bean paste and mix into oil, be care not to burn.
+4. Add garlic and ginger and move around in oil, cook until nice and fragrant.
+5. Add the water/stock, sugar, and soy.
+6. Bring to a boil.
+7. Add eggplant, be gentle with it.
+8. Reduce heat.
+9. Mix in Sichuan chile pepper.
+10. Mix in the potato starch to thicken the gravy, do it slowly so it doesn't
+    over-thicken.
+11. Mix in the vinegar and scallions.
