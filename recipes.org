@@ -981,6 +981,42 @@ Taken from [[https://www.paintthekitchenred.com/instant-pot-thai-red-curry/][her
  11. Let cook for 3 - 4 minutes, they should still be crispy when done.
  12. Add lime leaves and thai basil.
  13. Serve with rice.
+** Dried Hominy
+*** Ingredients
+- Dried hominy, however much you want
+- Lots of water
+- Salt
+- Half an onion
+*** Recipe
+1. Soak the hominy in a water for at least 8 hours.  Overnight is good.
+2. Drain and rinse hominy.
+3. Add to instant pot with 2x more water.
+4. Add half an onion.
+5. Cook at high pressure for 40 minutes, quick release when done.
+6. Toss the onion, drain and rinse.
+7. Enjoy.
+** Pozole Blanco
+*** Ingredients
+- 1 medium onion, diced
+- Garlic to taste, minced
+- 1 tbsp cumin
+- 1 tbsp dried oregano
+- 2 tsp chili powder
+- 2 tsp kosher salt
+- Some amount of hominy
+- Cabbage
+- Cilantro
+- 2 poblano peppers, cored and diced
+- 600g chicken breast
+- Limes
+- Chicken broth
+*** Receipe
+1. Prepare hominy before hand if needed.
+2. Combine broth, chicken, peppers, onion, garlic, cumin, oregano, chili powder,
+   salt, hominy, cabbage in instant pot.
+3. Cook for 15 minutes.  Natural release for 10-15 minutes.
+4. Remove chicken and cut up/pull apart.
+5. Serve with cut up limes to put in the soup.
 * Sous Vide
 ** Steak
 *** Ingredients
