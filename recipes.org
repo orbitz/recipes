@@ -633,29 +633,45 @@ Picture of ingredients:
    you let it rest for an hour or two after it’s done.
 
    [[./images/rcc10.jpg]]
-** Cast Iron Pizza
-Recipe from
+** Pizza
+Recipe from [[https://www.youtube.com/watch?v=OOeCLN9VHGY][Delivery Style Pizza - Brian Lagerstrom]]
 *** Ingredients
-- 3.5 dl warm water
-- 60 ml olive oil
-- 9 dl flour (more gluten the better)
-- 1 tbsp sugar
-- 1.5 tsp salt
-- 2 tsp yeast
+- 1 kg "00" flour
+- 70 g olive oil
+- 12 g yeast
+- 620 g water
+- 80 g sugar
+- 27 g salt
+- Fine cornmeal - for expanding the dough
+- Mozzarella & Provolone - 2:1 mixture
 *** Recipe
-When making this dough, you want it wet as opposed to dry.  It should not be
-sticking to your hands but given how the dough will be cooked we don't want it
-to dry out.
-
-When cooking, the goal is to use the cast iron on the stove to cook the bottom
-of the dough for a bit, and then we'll finish the pizza in the oven, and finally
-depending on how the bottom looks, we might just let it sit in the cast iron for
-a few minutes after taking it out of the oven.  We want the bottom to have some
-dark spots on it and be crunchy while not being dry.
-
-At any point in the recipe you might need to use flour to keep the dough from
-sticking to whatever surface you're working it on.  Use your best judgement.
-
+1. Mix everything together.
+2. Kneed for at least 10 minutes. Will be very wet at first and hard. I do it
+   with a spoon for a long time until it's "clearing the bowl" and then switch
+   to doing it on the table. Keep going until it's really not as sticky on your
+   fingers.
+3. Put a little bit of olive oil in a bowl and put the dough inside.
+4. Let rise 30 minutes.
+5. Do 4 folds, taking one from each side of the dough ball, stretching it out,
+   and then fold over.
+6. Let rise another 30 minutes.
+7. Cut into individual pizza pieces, 250 - 400 g depending on how big you want
+   it. You should probably aim to get 8 pizzas out of this dough.
+8. Do 2 stretch and fold over on the small piece, one on each side. Then flip
+   over.
+9. Use hands to form it into a round dough ball.
+10. Put some olive oil on a tray or in individual containers to let the dough
+    balls proof in.
+11. Store in fridge for at least 4 hours but up to 24 hours.
+12. Take out an hour or two before start cooking to let warm up, the dough balls
+    will expand.
+13. Put oven to max with pizza steel in it for at least an hour, get it nice and
+    hot.
+14. Use cornmeal on a piece of parchment paper and on top of dough ball and
+    expand the dough ball. Pop some of the air bubbles as they might get too
+    big.
+15. Put toppings on.
+16. Pop in oven until nicely cooked. Maybe 5 - 7 minutes.
 **** Dough
 1. Combine yeast in a portion of the warm water and let bubble a bit.
 2. Combine flour, olive oil, sugar, and salt.
