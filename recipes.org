@@ -473,22 +473,20 @@ However many sweet potatoes your slow cooker can handle.
 * Carbs
 ** Pancakes
 *** Ingredients
-Full serves 6 pancakes.
-
-| *Ingredient*    | *Amount* |
-|-----------------+----------|
-| Flour           | 3.5 dl   |
-| Baking powder   | 3.5 tsp  |
-| Salt            | 1 tsp    |
-| Sugar           | 1 tbsp   |
-| Egg             | 1        |
-| Butter (melted) | 3 tbsp   |
-| Milk            | 3 dl     |
+| *Ingredient*  | *Amount* |
+|---------------+----------|
+| Flour         | 4.1 dl   |
+| Baking powder | 2 tsp    |
+| Salt          | 1 tsp    |
+| Sugar         | 1 tbsp   |
+| Egg           | 2        |
+| Oil           | 3 tbsp   |
+| Milk          | 3 dl     |
+| Vanilla       | 1 tbsp   |
 *** Recipe
-1. Mix flour, baking powder, salt, and sugar in a bowl.
-2. Mix in milk.
-3. Add egg and melted butter.
-4. Warm a pan and to medium with melted butter.
+1. Beat eggs and milk in large mixing bowl until frothy.
+2. Add oil and vanilla.
+3. Stir in flour, baking powder, and sugar.  DO NOT OVER MIX.
 
 ** Light and Fluffy Pancakes
 Source: https://www.seriouseats.com/light-and-fluffy-pancakes-recipe
